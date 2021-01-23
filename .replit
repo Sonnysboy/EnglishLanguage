@@ -1,0 +1,2 @@
+language = "cpp"
+run = "chmod +x compile.sh && ./compile.sh && ./main"
